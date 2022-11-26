@@ -1,2 +1,2 @@
-# bank-app-python
+# Banking Application
 Simple Banking Application in Python
