@@ -44,6 +44,7 @@ A new payment bank wants to implement its banking solution. Payments banks have 
  ```
  
  ```
+ pip install coverage
  coverage run test_bank.py
  coverage html
  ```
