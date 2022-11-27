@@ -37,6 +37,13 @@ A new payment bank wants to implement its banking solution. Payments banks have 
  python main.py
  ```
  
+ Docker
+ 
+ '''
+ docker pull rahulmenonmu/bank-app:bank-app-latest
+ docker run rahulmenonmu/bank-app:bank-app-latest
+ '''
+ 
  ### Test
  
  ```
